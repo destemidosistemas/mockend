@@ -51,5 +51,34 @@
                 "emissao": "20220711"
             }
         ]
+    },
+    "tracking": {
+        "itens": [
+            {
+                "etapa": "1",
+                "dataHora": "27/04/22 00:00 ",
+                "descricao": "Pedido de Vendas"
+            },
+            {
+                "etapa": "4",
+                "dataHora": "01/06/2022 13:41:02 ",
+                "descricao": "Liberacao de Estoque"
+            },
+            {
+                "etapa": "6",
+                "dataHora": "04/05/2022 15:14:07 ",
+                "descricao": "Nota Fiscal"
+            },
+            {
+                "etapa": "7",
+                "dataHora": "03/06/2022 16:48:04 ",
+                "descricao": "Embarque"
+            },
+            {
+                "oRastreio": [],
+                "etapa": "8",
+                "descricao": "Rastreio"
+            }
+        ]
     }
 }
