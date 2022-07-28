@@ -6,27 +6,6 @@
         "token_type": "Bearer",
         "expires_in": 3600
     },
-    "nota": {
-        "total_registros": 5,
-        "itens": [
-            {
-                "valor": 633.54,
-                "titulo": "000088016",
-                "vencimento": "20220808",
-                "parcela": "01",
-                "id": 209825,
-                "emissao": "20220711"
-            },
-            {
-                "valor": 633.54,
-                "titulo": "000088016",
-                "vencimento": "20220815",
-                "parcela": "02",
-                "id": 209826,
-                "emissao": "20220711"
-            }
-        ]
-    },
     "tracking": {
         "itens": [
             {
@@ -53,6 +32,27 @@
                 "oRastreio": [],
                 "etapa": "8",
                 "descricao": "Rastreio"
+            }
+        ]
+    },
+    "nota": {
+        "total_registros": 5,
+        "itens": [
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220808",
+                "parcela": "01",
+                "id": 209825,
+                "emissao": "20220711"
+            },
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220815",
+                "parcela": "02",
+                "id": 209826,
+                "emissao": "20220711"
             }
         ]
     }
