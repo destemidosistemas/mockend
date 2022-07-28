@@ -8,48 +8,48 @@
         "expires_in": 3600
     },
     "nota": {
-    "total_registros": 5,
-    "itens": [
-        {
-            "valor": 633.54,
-            "titulo": "000088016",
-            "vencimento": "20220808",
-            "parcela": "01",
-            "id": 209825,
-            "emissao": "20220711"
-        },
-        {
-            "valor": 633.54,
-            "titulo": "000088016",
-            "vencimento": "20220815",
-            "parcela": "02",
-            "id": 209826,
-            "emissao": "20220711"
-        },
-        {
-            "valor": 633.54,
-            "titulo": "000088016",
-            "vencimento": "20220822",
-            "parcela": "03",
-            "id": 209827,
-            "emissao": "20220711"
-        },
-        {
-            "valor": 633.54,
-            "titulo": "000088016",
-            "vencimento": "20220905",
-            "parcela": "04",
-            "id": 209828,
-            "emissao": "20220711"
-        },
-        {
-            "valor": 633.55,
-            "titulo": "000088016",
-            "vencimento": "20220919",
-            "parcela": "05",
-            "id": 209829,
-            "emissao": "20220711"
-        }
-    ]
+        "total_registros": 5,
+        "itens": [
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220808",
+                "parcela": "01",
+                "id": 209825,
+                "emissao": "20220711"
+            },
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220815",
+                "parcela": "02",
+                "id": 209826,
+                "emissao": "20220711"
+            },
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220822",
+                "parcela": "03",
+                "id": 209827,
+                "emissao": "20220711"
+            },
+            {
+                "valor": 633.54,
+                "titulo": "000088016",
+                "vencimento": "20220905",
+                "parcela": "04",
+                "id": 209828,
+                "emissao": "20220711"
+            },
+            {
+                "valor": 633.55,
+                "titulo": "000088016",
+                "vencimento": "20220919",
+                "parcela": "05",
+                "id": 209829,
+                "emissao": "20220711"
+            }
+        ]
     }
 }
